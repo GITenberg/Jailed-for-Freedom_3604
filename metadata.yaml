@@ -1,0 +1,27 @@
+_repo: Jailed-for-Freedom_3604
+creator:
+  author:
+    agent_name: Stevens, Doris
+    aliases:
+    - Mitchell, Mrs. Jonathan
+    - Mitchell, Doris Stevens
+    birthdate: 1888
+    deathdate: 1963
+    gutenberg_agent_id: '1233'
+    url: http://www.gutenberg.org/2009/agents/1233
+description: First-hand account of how suffragists in the National Women's Party organized
+  and fought a fierce battle for the passage of the 19th Amendment.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suffragists -- United States'
+- !lcc 'JK'
+- !lcsh 'Women -- Suffrage -- United States'
+title: Jailed for Freedom
+url: http://www.gutenberg.org/ebooks/3604
