@@ -1,5 +1,8 @@
 _repo: Jailed-for-Freedom_3604
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevens, Doris
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1233
 description: First-hand account of how suffragists in the National Women's Party organized
   and fought a fierce battle for the passage of the 19th Amendment.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3604#Jailed-for-Freedom
 gutenberg_issued: '2003-01-01'
 gutenberg_type: Text
 identifiers:
