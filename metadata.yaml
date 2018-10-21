@@ -1,5 +1,5 @@
 _repo: Jailed-for-Freedom_3604
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Suffragists -- United States'
 - !lcc 'JK'
 - !lcsh 'Women -- Suffrage -- United States'
+- GITenberg
 title: Jailed for Freedom
 url: http://www.gutenberg.org/ebooks/3604
